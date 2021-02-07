@@ -20,5 +20,5 @@ Udacity | 10 hours | 1 week | self-paced | none
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Social Construct](https://www.coursera.org/learn/crypto?) | 
+[Cryptography 1](https://www.coursera.org/learn/crypto?) | 
 Stanford | 23 hours | 1 week | self-paced | none
