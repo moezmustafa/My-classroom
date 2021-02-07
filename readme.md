@@ -11,3 +11,14 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 Udacity | 10 hours | 1 week | self-paced | none
 [Linux command line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 weeks | 10 hours/week | once a day | none
 
+## EXTRAS
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Social Construct]( ) | 
+Udacity | 10 hours | 1 week | self-paced | none
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Social Construct](https://www.coursera.org/learn/crypto?) | 
+Stanford | 23 hours | 1 week | self-paced | none
